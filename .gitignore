@@ -33,3 +33,10 @@ narayan_labeled.csv
 dataset/data.csv
 Narayan dataset.csv
 narayan_labeled.csv
+
+.agents/
+.claude/
+runner.py
+runner3.py
+pan_cancer_large_dataset.csv
+pan_cancer_all_801_biomarkers.csv
