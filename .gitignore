@@ -1,0 +1,35 @@
+# Environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Large Archives & Raw Data Dumps
+*.zip
+*.tar.gz
+
+# macOS / OS artifacts
+.DS_Store
+Thumbs.db
+
+# IDE Configurations
+.vscode/
+.idea/
+
+dataset/data.csv
+Narayan dataset.csv
+narayan_labeled.csv
+
+dataset/data.csv
+Narayan dataset.csv
+narayan_labeled.csv
